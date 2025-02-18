@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\note\\RobotSimulator\\RobotSimulator\\",
+  "WorkspaceRootPath": "D:\\note\\RobotSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|d:\\note\\robotsimulator\\robotsimulator\\robotsimulator\\toyrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|d:\\note\\robotsimulator\\robotsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|solutionrelative:robotsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|d:\\note\\robotsimulator\\robotsimulator\\toyrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|solutionrelative:robotsimulator\\toyrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|d:\\note\\robotsimulator\\robotsimulator\\robotsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E38F2BE-14BE-41D7-A674-226A1F3A8C32}|RobotSimulator\\RobotSimulator.csproj|solutionrelative:robotsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E3B5104-C4A2-423E-9EF9-3F01B3C3C78A}|RobotSimulator.Tests\\RobotSimulator.Tests.csproj|d:\\note\\robotsimulator\\robotsimulator.tests\\toyrobot.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3B5104-C4A2-423E-9EF9-3F01B3C3C78A}|RobotSimulator.Tests\\RobotSimulator.Tests.csproj|solutionrelative:robotsimulator.tests\\toyrobot.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,28 +106,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ToyRobot.Tests.cs",
+              "DocumentMoniker": "D:\\note\\RobotSimulator\\RobotSimulator.Tests\\ToyRobot.Tests.cs",
+              "RelativeDocumentMoniker": "RobotSimulator.Tests\\ToyRobot.Tests.cs",
+              "ToolTip": "D:\\note\\RobotSimulator\\RobotSimulator.Tests\\ToyRobot.Tests.cs",
+              "RelativeToolTip": "RobotSimulator.Tests\\ToyRobot.Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:41:26.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ToyRobot.cs",
-              "DocumentMoniker": "D:\\note\\RobotSimulator\\RobotSimulator\\RobotSimulator\\ToyRobot.cs",
+              "DocumentMoniker": "D:\\note\\RobotSimulator\\RobotSimulator\\ToyRobot.cs",
               "RelativeDocumentMoniker": "RobotSimulator\\ToyRobot.cs",
-              "ToolTip": "D:\\note\\RobotSimulator\\RobotSimulator\\RobotSimulator\\ToyRobot.cs",
+              "ToolTip": "D:\\note\\RobotSimulator\\RobotSimulator\\ToyRobot.cs",
               "RelativeToolTip": "RobotSimulator\\ToyRobot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:42:10.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\note\\RobotSimulator\\RobotSimulator\\RobotSimulator\\Program.cs",
+              "DocumentMoniker": "D:\\note\\RobotSimulator\\RobotSimulator\\Program.cs",
               "RelativeDocumentMoniker": "RobotSimulator\\Program.cs",
-              "ToolTip": "D:\\note\\RobotSimulator\\RobotSimulator\\RobotSimulator\\Program.cs",
+              "ToolTip": "D:\\note\\RobotSimulator\\RobotSimulator\\Program.cs",
               "RelativeToolTip": "RobotSimulator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T09:41:34.658Z"
+              "WhenOpened": "2025-02-18T09:41:34.658Z",
+              "EditorCaption": ""
             }
           ]
         }
